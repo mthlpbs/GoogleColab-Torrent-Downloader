@@ -1,6 +1,6 @@
 # GoogleColab-Torrent-Downloader
 
-This is a project that allows you to download torrents using Google Colab. It uses the [torrentp] library to files.
+This is a project that allows you to download torrents using Google Colab. It uses the torrentp library to files.
 
 ## How to use
 
